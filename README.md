@@ -4,6 +4,10 @@
 
 ## Doc
 
+datasheet https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf
+
+
+
 - [User manual](https://innopolisaero.github.io/inno_uavcan_node_binaries/guide/can_pwm/)
 - [Hardware docs](doc/doc.pdf)
 - [Firmware sources](https://github.com/InnopolisAero/node)
