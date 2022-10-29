@@ -1,0 +1,57 @@
+Altium Designer Pick and Place Locations
+C:\altium workspace\RCL\picoNODE\Project Outputs\Pick Place\Pick Place for PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       29.10.22
+Time:       20:26
+Revision:   024ba783a94ea97011dd8ce9d0d8b524131b82fc
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"BOOT","Test Point","BottomLayer","PAD1","28.2000","10.5000","90",""
+"GND","Test Point","BottomLayer","PAD1","28.2000","5.6000","90",""
+"DP","Test Point","BottomLayer","PAD1","28.2000","8.0000","180",""
+"DM","Test Point","BottomLayer","PAD1","28.2000","6.8000","180",""
+"3V3","Test Point","BottomLayer","PAD1","28.2000","9.2000","90",""
+"U4","W25Q128JVEIQ","BottomLayer","SON127P500X600X80-9N","36.6000","13.4000","90","FLASH - NOR Memory IC 128Mb (16M x 8) SPI - Quad I/O, QPI, DTR 133 MHz 8-SOIC"
+"U3","RP2040","TopLayer","QFN40P700X700X90-57N","33.8000","15.5350","180",""
+"R14","RC0402FR-071KL","BottomLayer","RESC1005X40N","37.4000","7.5000","0","0.062Вт 0402 1 кОм, 1%, Чип резистор (SMD)"
+"R13","RC0603FR-070RL","BottomLayer","J1-0603","37.6000","9.1000","0","0 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"C17","GCM155R71H104KE02D","BottomLayer","CAPC1005X55N","37.2320","17.5000","0","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"C16","CC0402KRX5R5BB105","BottomLayer","CAPC1005X55N","31.2000","12.4000","270","10% 6.3V Ceramic Capacitor X5R 0402 _1005 Metric_"
+"C15","GCM155R71H104KE02D","BottomLayer","CAPC1005X55N","33.7000","19.7000","90","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"C14","GCM155R71H104KE02D","BottomLayer","CAPC1005X55N","32.7000","12.8000","90","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"C12","CC0402KRX5R5BB105","TopLayer","CAPC1005X55N","32.6000","10.7000","270","10% 6.3V Ceramic Capacitor X5R 0402 _1005 Metric_"
+"C11","GCM155R71H104KE02D","TopLayer","CAPC1005X55N","28.6000","17.7000","0","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"C10","GCM155R71H104KE02D","TopLayer","CAPC1005X55N","30.1000","10.7000","90","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"C9","GCM155R71H104KE02D","TopLayer","CAPC1005X55N","33.0000","20.9000","270","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"R12","RC0402FR-07330RL","TopLayer","RESC1005X40N","28.6000","15.7000","180","0.062Вт 0402 330 Ом, 1%, Чип резистор (SMD)"
+"R11","RC0402FR-07330RL","TopLayer","RESC1005X40N","28.6000","14.6000","180","0.062Вт 0402 330 Ом, 1%, Чип резистор (SMD)"
+"LED1","LTST-C19HE1WT","TopLayer","LTST-C19HE1WT","28.4000","22.9000","270","Blue/Green/Red"
+"Rv2","RC0402FR-076K8L","TopLayer","RESC1005X40N","28.5000","13.2000","180","0.062Вт 0402 6.8 кОм, 1%, Чип резистор (SMD)"
+"Rv1","RC0402FR-0713KL","TopLayer","RESC1005X40N","28.5000","12.3000","180","0.062Вт 0402 13 кОм, 1%, Чип резистор (SMD)"
+"Y1","CSTCE12M0G55Z-R0","TopLayer","*OSC_CSTCE8M00G55-R0","35.1000","20.9000","0","Ceramic Resonator, 12 MHz, +/- 0.5%, -40 to 125 degC, 3-Pin SMD, RoHS, Tape and Reel"
+"U2","TJA1042TK/3","TopLayer","SOT782-1","37.9000","7.9000","180","1/1 Transceiver Half CANbus 8-SO"
+"U1","SPX3819M5-L-3-3/TR","TopLayer","*SOT95P280X145-5N","28.4000","7.3000","90","Low Dropout Voltage Regulator, Adjustable 0.5A, В±1%, 2.5 to 16 Vin, 5-Pin SOT-23"
+"SWD1","BM04B-GHS-TBT(LF)(SN)(N)","BottomLayer","JST_BM04B-GHS-holes","38.2000","22.8250","270","Conn Shrouded Header HDR 4 POS 1.25mm Solder ST SMD Reel"
+"R10","RC0402FR-07330RL","TopLayer","RESC1005X40N","28.6000","16.7000","180","0.062Вт 0402 330 Ом, 1%, Чип резистор (SMD)"
+"R9","Res3","TopLayer","J1-0603","38.8000","3.7000","90","120 Ohms 1 0.1 W 1 10 W Chip Resistor 0603 1608 Metric Thick Film"
+"R8","RC0402FR-074K7L","TopLayer","RESC1005X40N","32.3000","6.9000","90","0.062Вт 0402 4.7 кОм, 1%, Чип резистор (SMD)"
+"R4","RC0402FR-074K7L","TopLayer","RESC1005X40N","31.3000","6.9000","270","0.062Вт 0402 4.7 кОм, 1%, Чип резистор (SMD)"
+"R2","RC0402FR-074K7L","TopLayer","RESC1005X40N","31.8000","20.9000","90","0.062Вт 0402 4.7 кОм, 1%, Чип резистор (SMD)"
+"R1","RC0402FR-074K7L","TopLayer","RESC1005X40N","30.9000","20.9000","90","0.062Вт 0402 4.7 кОм, 1%, Чип резистор (SMD)"
+"CAN2","SM04B-GHS-TB(LF)(SN)-","TopLayer","JST_SM04B-GHS-TB(LF)(SN)-","33.4000","3.1750","0","Connector Header Surface Mount, Right Angle 4 position 0.049 _1.25mm_"
+"CAN1","SM04B-GHS-TB(LF)(SN)-","BottomLayer","JST_SM04B-GHS-TB(LF)(SN)-","33.4000","3.1750","180","Connector Header Surface Mount, Right Angle 4 position 0.049 _1.25mm_"
+"C8","GCM155R71H104KE02D","TopLayer","CAPC1005X55N","35.7000","7.5000","270","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"C7","GCM155R71H104KE02D","TopLayer","CAPC1005X55N","38.0000","10.3000","180","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"C6","GCM155R71H104KE02D","TopLayer","CAPC1005X55N","31.1000","10.7000","90","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"C5","GCM155R71H104KE02D","TopLayer","CAPC1005X55N","38.5000","12.4000","90","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"C4","GCM155R71H104KE02D","TopLayer","CAPC1005X55N","33.6000","10.7000","90","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"C3","GCM155R71H104KE02D","TopLayer","CAPC1005X55N","38.7000","16.6000","180","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"C2","GCM155R71H104KE02D","TopLayer","CAPC1005X55N","27.9000","9.9000","180","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"C1","GCM155R71H104KE02D","TopLayer","CAPC1005X55N","27.9000","4.5000","180","GCM155R71H104KE02D, Чип 0402 X7R 0.1uF +10% 50V,Конденсатор"
+"PWM2","A","BottomLayer","HDR_Side_3_pin","33.6000","25.6000","0","Header, 3-Pin"
+"PWM1","A","TopLayer","HDR_Side_3_pin","33.6000","25.6000","180","Header, 3-Pin"
