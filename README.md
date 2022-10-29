@@ -1,4 +1,4 @@
-# uNODE
+# picoNODE
 
 <img src="doc/view.png" alt="drawing" height="300"/>
 
@@ -10,9 +10,9 @@ datasheet https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.
 
 - [User manual](https://innopolisaero.github.io/inno_uavcan_node_binaries/guide/can_pwm/)
 - [Hardware docs](doc/doc.pdf)
-- [Firmware sources](https://github.com/InnopolisAero/node)
-- [Firmware binary](https://github.com/InnopolisAero/inno_uavcan_node_binaries/releases)
-- [Firmware binary 2](https://github.com/PonomarevDA/binaries)
+- Firmware sources
+- Firmware binary
+
 
 ## TERMS OF USAGE / LICENCE
 
